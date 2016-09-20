@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  direct_upload_url: MyString
+  upload: 
+  status: 1
+
+two:
+  direct_upload_url: MyString
+  upload: 
+  status: 1
